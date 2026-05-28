@@ -109,6 +109,16 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 ---
 
+## 📸 Screenshots 
+![bar chart](Images/barchart.png)
+![boxplot](Images/boxplot.png)
+![correlation matrix](Images/corr_matrix.png)
+![Histogram](Images/histogram.png)
+![pairplot](Images/pairplot.png)
+![scatter plot](Images/scatterplot.png)
+
+---
+
 ## 📊 Sample Visualizations
 
 > Run the notebook to see all 6 charts rendered with outputs.
