@@ -127,7 +127,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 ## 👤 Author
 
-**Vikas** — [Gravity Gaming 96](www.youtube.com/@gravityGaming-96)  
+**Vikas**
 Data Science Internship — Task 2 Submission
 
 ---
