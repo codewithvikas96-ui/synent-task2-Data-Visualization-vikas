@@ -128,8 +128,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 ## 👤 Author
 
 **Vikas**  
-Data Science Internship — Task 2 Submission
+Data Science Project — 2026
 
 ---
 
-*Part of my Data Science Internship project series. Check out Task 1 (Titanic — Data Cleaning & Preprocessing) in the same repository.*
